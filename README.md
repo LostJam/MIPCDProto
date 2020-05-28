@@ -3,15 +3,15 @@
 
 Our tool provides the following functionalities for 2D->3D vizualization:
 - View a set of 2D images as a composited 3D volume in Virtual Reality
-    our custom engines provides an exceptionally high framerate to level of detail ratio
-    using the most cutting edge high definition rendering backed by current research. 
+    - our custom engines provides an exceptionally high framerate to level of detail ratio
+    - using the most cutting edge high definition rendering backed by current research. 
 - Automatically segment organs for immediate vizual clarity 
-    machine learning; neural networks and other custom artificial intelligence techniques color segment the internal landscape
+    - machine learning; neural networks and other custom artificial intelligence techniques color segment the internal landscape
 - Fully customize and highlight your own areas of interest 
-    easy to use section/tissue density based color mapping 
-    adjust contrast, transparency, and brightness preferentially
-    - Acutely adjustable automatic contrast for your preferred vizual isolation level
-    cut into or omit areas of the volume to isolate areas of interest
+    - easy to use section/tissue density based color mapping 
+    - adjust contrast, transparency, and brightness preferentially
+        - Acutely adjustable automatic contrast for your preferred vizual isolation level
+    - cut into or omit areas of the volume to isolate areas of interest
 
 How To Get Started:
 1. Install our VR application and importer tool on your destop!
@@ -38,4 +38,4 @@ Choosing Your Dicom Stack In VR:
 - after you have selected your patient and data set, you will be asked to confirm your selection with more detailed information. Hit confirm to view and interact with the 3D model
 
 Interacting With the 3D Volume:
-- After you have selected a data stack, the volume will load in in front of you
+- After you have selected a data stack, the volume will load in in front of you. 
