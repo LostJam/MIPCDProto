@@ -5,13 +5,19 @@ Our tool provides the following functionalities for 2D->3D vizualization:
 - View a set of 2D images as a composited 3D volume in Virtual Reality
     - our custom engines provides an exceptionally high framerate to level of detail ratio
     - using the most cutting edge high definition rendering backed by current research. 
+        
 - Automatically segment organs for immediate vizual clarity 
     - machine learning; neural networks and other custom artificial intelligence techniques color segment the internal landscape
 - Fully customize and highlight your own areas of interest 
     - easy to use section/tissue density based color mapping 
-    - adjust contrast, transparency, and brightness preferentially
         - Acutely adjustable automatic contrast for your preferred vizual isolation level
     - cut into or omit areas of the volume to isolate areas of interest
+        - adjust contrast, transparency, and brightness preferentially
+    <br>
+         <img src="https://cdn.discordapp.com/attachments/687762053058003003/710052270074494976/unknown.png" width="400">
+    <br>
+    
+    
 
 How To Get Started:
 1. Install our VR application and importer tool on your destop!
