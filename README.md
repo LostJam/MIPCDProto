@@ -12,7 +12,7 @@ Our tool provides the following functionalities for 2D->3D vizualization:
     - easy to use section/tissue density based color mapping 
         - Acutely adjustable automatic contrast for your preferred vizual isolation level
     - cut into or omit areas of the volume to isolate areas of interest
-        - adjust contrast, transparency, and brightness preferentially
+    - adjust contrast, transparency, and brightness preferentially
     <br>
          <img src="https://cdn.discordapp.com/attachments/687762053058003003/710052270074494976/unknown.png" width="400">
     <br>
